@@ -25,6 +25,9 @@
 <!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="Goutham | LinkedIn" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/linkedin.png" />][linkedin]
 [<img align="left" alt="Goutham | Instagram" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/instagram.png" />][instagram]
+[<img align="left" alt="Goutham | Stackoverflow" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/stack-overflow.jpg" />][Stackoverflow]
+[<img align="left" alt="Goutham | Medium" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/medium.jpg" />][Medium]
+[<img align="left" alt="Goutham | DEV" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/DEV.jpg" />][DEV]
 [<img align="left" alt="Goutham | Hackerrank" width="22px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/Hackerrank.png" />][hackerrank]
 <br />
 
@@ -63,6 +66,9 @@
 <!--[course]: http://vsCodeHero.com-->
 <!--[twitter]: https://twitter.com/codeSTACKr-->
 <!--[youtube]: https://youtube.com/codeSTACKr-->
+[Medium]: https://medium.com/@gouthamgosh10
+[Stackoverflow]: https://stackoverflow.com/users/edit/14514049
+[DEV]: https://dev.to/gouthique
 [hackerrank]: https://www.hackerrank.com/Gouthique?hr_r=1
 [python3]: https://www.python.org/
 [R]: https://www.r-project.org/
