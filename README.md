@@ -25,7 +25,7 @@
 <!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="Goutham | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/linkedin.png" />][linkedin]
 [<img align="left" alt="Goutham | Instagram" width="22px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/instagram.png" />][instagram]
-[<img align="left" alt="Goutham | Instagram" width="22px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/Hackerrank.png" />][hackerrank]
+[<img align="left" alt="Goutham | Hackerrank" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/Hackerrank.png" />][hackerrank]
 <br />
 
 ### Languages and Tools:
