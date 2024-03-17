@@ -1,16 +1,20 @@
 ### Hello , I'm Goutham -  👋
 
+## Actively Seeking Full Time Software Engineering / Developer / Full Stack Web Development Oppurtunities.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gouthique&label=Profile%20views&color=0e75b6&style=flat" alt="Gouthique" /> </p>
 
-## I'm a Passionate 2021 Engineering Graduate, Freelancer and a Data Science, Machine Learning Enthusiast!
+## I'm a Passionate upcoming 2024 Computer Science Masters Graduate, Software Engineering and Data Science Enthusiast!
 
+- 🪪 Please Find my Updated Resume here 👉🏻[]👈🏻
+  
 - 🔭 Always seeking the path of learning new things and gain skills realted to _Science, Technology and Art!_
 
-- 🌱 I’m currently learning **Data Science and Machine learning!**
+- 🌱 I’m currently **Pursing My Master of Science @UNCC, Charlotte, USA**
 
-- 📫 You can Reach me at **gouthamgosh10@gmail.com**.
+- 📫 You can Reach me at **hiitsmegoutham@gmail.com**.
 
-- ⭐ I'm skilled at Python, Machine Learning and Graphic Designing.
+- ⭐ I'm skilled at Python, JavaScript, MERN Stack, Basic DevOps and Graphic Designing.
 
 - 🥅 My Goals: Contribute more to Open Source projects.
 
@@ -34,6 +38,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/python.png" />][python3]
+
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/R.png" />][R]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/SQL_1.png" />][SQL]
 [<img align="left" alt="atom" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/jupyter.png" />][Jupyter_nb]
