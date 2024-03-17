@@ -1,21 +1,28 @@
-### Hello, I'm Goutham 👋
+### Hello , I'm Goutham -  👋
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Gouthique&label=Profile%20views&color=0e75b6&style=flat" alt="Gouthique" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gouthique&label=Profile%20views&color=0e75b6&style=flat" alt="Gouthique" /> </p>
 
-## I'm a Passionate 2021 Engineering Graduate, Freelancer, and a Data Science, Machine Learning Enthusiast!
+## I'm a Passionate 2021 Engineering Graduate, Freelancer and a Data Science, Machine Learning Enthusiast!
 
-- 🔭 Always seeking the path of learning new things and gaining skills related to _Science, Technology, and Art!_
-- 🌱 I’m currently learning **Data Science and Machine Learning!**
+- 🔭 Always seeking the path of learning new things and gain skills realted to _Science, Technology and Art!_
+
+- 🌱 I’m currently learning **Data Science and Machine learning!**
+
 - 📫 You can Reach me at **gouthamgosh10@gmail.com**.
-- ⭐ I'm skilled at Python, Machine Learning, and Graphic Designing.
+
+- ⭐ I'm skilled at Python, Machine Learning and Graphic Designing.
+
 - 🥅 My Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to _Draw, Watch Anime, Play Sports, Dance, and Play Games._
+
+- ⚡ Fun fact: I love to _Draw, Watch Anime, Play Sports, Dance and Play Games._
+
 - 🎉 I love to play - 🏏⚽ 🏀 ♟ 🏸 🎮 💻 
 
 ### Connect with me:
 
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+<!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+<!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="Goutham | LinkedIn" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/linkedin.png" />][linkedin]
 [<img align="left" alt="Goutham | Instagram" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/instagram.png" />][instagram]
 [<img align="left" alt="Goutham | Stackoverflow" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/stack-overflow.jpg" />][Stackoverflow]
@@ -28,31 +35,32 @@
 
 [<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/python.png" />][python3]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/R.png" />][R]
-[... other icons ...]
-<br /><br />
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/SQL_1.png" />][SQL]
+[<img align="left" alt="atom" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/jupyter.png" />][Jupyter_nb]
+[<img align="left" alt="atom" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/pycharm.png" />][Pycharm]
+[<img align="left" alt="atom" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/atom.png" />][atom]
+[<img align="left" alt="vs_code" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/vs_code.png" />][vscode]
+[<img align="left" alt="tableu" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/Tableau.1.png" />][Tablaeu]
+<!--[<img align="left" alt="RS" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/R_studio.png" />][RS]-->
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/terminal.png">][terminal]
+<!--[<img align="left" alt="power shell" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/power%20shell.png">][powershell]-->
+[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/git.png">][git]
+[<img align="left" alt="Excel" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/excel.png" />][excel]
+[<img align="left" alt="word" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/photoshop.png" />][photoshop]
+[<img align="left" alt="word" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/illlustrator.png" />][illustrator]
+[<img align="left" alt="canva" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/canva.png" />][canva]
+[<img align="left" alt="word" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/aftereffects.png" />][aftereffects]
+[<img align="left" alt="word" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/word.png" />][word]
+[<img align="left" alt="powerpoint" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/powerpoint.png" />][powerpoint]
 
-### 📊 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gouthique&show_icons=true&locale=en&layout=compact" alt="Gouthique" />
-</p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gouthique&show_icons=true&locale=en" alt="Gouthique" />
-</p>
+<br />
+<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gouthique&show_icons=true&locale=en&layout=compact" alt="Gouthique" /></p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthique&" alt="Gouthique" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gouthique&show_icons=true&locale=en" alt="Gouthique" /></p>
 
-### 📈 GitHub Activity Graph:
-![Goutham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gouthique&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)
-
-### 📝 Guestbook:
-Feel free to leave a message on my [GitHub Guestbook](https://github.com/Gouthique/Gouthique/issues/new?template=guestbook_entry.md)!
-
-<!-- Reference links -->
-[... your reference links ...]
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthique&" alt="Gouthique" /></p>
 
 <!--[website]: https://codeSTACKr.com-->
 <!--[course]: http://vsCodeHero.com-->
