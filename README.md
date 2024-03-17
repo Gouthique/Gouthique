@@ -1,5 +1,12 @@
 # Hello , I'm Goutham -  👋
-----------------------█▓▒▒░░░OPEN TO WORK░░░▒▒▓█--------------------------
+
+ ██████  ██████  ███████ ███    ██     ████████  ██████      ██     ██  ██████  ██████  ██   ██ 
+██    ██ ██   ██ ██      ████   ██        ██    ██    ██     ██     ██ ██    ██ ██   ██ ██  ██  
+██    ██ ██████  █████   ██ ██  ██        ██    ██    ██     ██  █  ██ ██    ██ ██████  █████   
+██    ██ ██      ██      ██  ██ ██        ██    ██    ██     ██ ███ ██ ██    ██ ██   ██ ██  ██  
+ ██████  ██      ███████ ██   ████        ██     ██████       ███ ███   ██████  ██   ██ ██   ██ 
+                                                                                                
+                                                                                                
 ## Actively Seeking Full Time Software Engineering / Developer / Full Stack Web Development Oppurtunities.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gouthique&label=Profile%20views&color=0e75b6&style=flat" alt="Gouthique" /> </p>
