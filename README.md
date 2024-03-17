@@ -3,13 +3,13 @@
 # 🖥️🖥️🖥️ 🄾🄿🄴🄽 🅃🄾 🅆🄾🅁🄺 🖥️🖥️🖥️
 ---
                                                                                    
-## Actively Seeking Full Time Software Engineering / Developer / Full Stack Web Development Oppurtunities.
+## Actively Seeking Full Time Software Engineering / Developer / Full Stack Web Development Opportunities.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gouthique&label=Profile%20views&color=0e75b6&style=flat" alt="Gouthique" /> </p>
 
 ## I'm a Passionate upcoming 2024 Computer Science Masters Graduate, Software Engineering and Data Science Enthusiast!
 
-- 🪪 Please Find my Updated Resume here 👉🏻[]👈🏻
+- 🪪 Please Find my Updated Resume here 👉🏻 👈🏻
   
 - 🔭 Always seeking the path of learning new things and gain skills realted to _Science, Technology and Art!_
 
