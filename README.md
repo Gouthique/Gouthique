@@ -11,13 +11,13 @@
 
 - 🪪 Please Find my Updated Resume here 👉🏻 👈🏻
   
-- 🔭 Always seeking the path of learning new things and gain skills realted to _Science, Technology and Art!_
+- 🔭 Always seeking the path of learning new things and gaining skills realted to _Science, Technology, and Art!_
 
-- 🌱 I’m currently **Pursing My Master of Science @UNCC, Charlotte, USA**
+- 🌱 I’m a **Master of Science in Computer Science Graduate @UNCC, Charlotte, USA**
 
 - 📫 You can Reach me at **hiitsmegoutham@gmail.com**.
 
-- ⭐ I'm skilled at Python, JavaScript, MERN Stack, Basic DevOps and Graphic Designing.
+- ⭐ I'm skilled in Python, JavaScript, MERN Stack, AWS and Basic DevOps, Data Science.
 
 - 🥅 My Goals: Contribute more to Open Source projects.
 
@@ -31,33 +31,33 @@
 <!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 <!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="Goutham | LinkedIn" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/linkedin.png" />][linkedin]
-[<img align="left" alt="Goutham | Instagram" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/instagram.png" />][instagram]
+[<img align="left" alt="Goutham | Instagram" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/instagram.png" />][Instagram]
+<!--
 [<img align="left" alt="Goutham | Stackoverflow" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/stack-overflow.jpg" />][Stackoverflow]
 [<img align="left" alt="Goutham | Medium" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/medium.jpg" />][Medium]
 [<img align="left" alt="Goutham | DEV" width="24px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/DEV.jpg" />][DEV]
-[<img align="left" alt="Goutham | Hackerrank" width="22px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/Hackerrank.png" />][hackerrank]
+[<img align="left" alt="Goutham | Hackerrank" width="22px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/Hackerrank.png" />][hackerrank]-->
 <br />
 
 ### Languages and Tools:
 
 [<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/python.png" />][python3]
-
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/R.png" />][R]
+<!--
+[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/R.png" />][R]-->
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/SQL_1.png" />][SQL]
 [<img align="left" alt="atom" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/jupyter.png" />][Jupyter_nb]
 [<img align="left" alt="atom" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/pycharm.png" />][Pycharm]
-[<img align="left" alt="atom" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/atom.png" />][atom]
 [<img align="left" alt="vs_code" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/vs_code.png" />][vscode]
 [<img align="left" alt="tableu" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/Tableau.1.png" />][Tablaeu]
 <!--[<img align="left" alt="RS" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/R_studio.png" />][RS]-->
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/terminal.png">][terminal]
 <!--[<img align="left" alt="power shell" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/power%20shell.png">][powershell]-->
 [<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/git.png">][git]
-[<img align="left" alt="Excel" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/excel.png" />][excel]
+[<img align="left" alt="Excel" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/excel.png" />][excel]<!--
 [<img align="left" alt="word" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/photoshop.png" />][photoshop]
 [<img align="left" alt="word" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/illlustrator.png" />][illustrator]
 [<img align="left" alt="canva" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/canva.png" />][canva]
-[<img align="left" alt="word" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/aftereffects.png" />][aftereffects]
+[<img align="left" alt="word" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/aftereffects.png" />][aftereffects]-->
 [<img align="left" alt="word" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/word.png" />][word]
 [<img align="left" alt="powerpoint" width="26px" src="https://raw.githubusercontent.com/Gouthique/languages_tools/main/powerpoint.png" />][powerpoint]
 
